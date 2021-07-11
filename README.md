@@ -4,6 +4,8 @@ On this project I'll put the SwiftUI Custom User Interface (CUI)  controls that 
 
 [aSalvum](https://apps.apple.com/pt/app/asalvum/id1574929490?l=en), available on the App Store.
 
+![Screenshot](images/Screenshot.png?raw=true)
+
 I hope this is useful, So, let's start:
 
 Controls
@@ -18,6 +20,6 @@ Controls
 About
 --------
 
-I'll publish more controls on this project, so this project will be updated every time that I add a new control.  
+I'll publish more controls on this project, so, keep toned.  
 
 [LICENSE](LICENSE) :slightly_smiling_face: 
