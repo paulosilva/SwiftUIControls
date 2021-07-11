@@ -1,8 +1,6 @@
 # Swift UI Custom Controls
 
-On this project I'll put the SwiftUI Custom User Interface (CUI)  controls that I have build for the project aSalvum.
-
-[aSalvum](https://apps.apple.com/pt/app/asalvum/id1574929490?l=en), available on the App Store.
+On this project I'll put the SwiftUI Custom User Interface (CUI) controls that I have build for the project [aSalvum](https://apps.apple.com/pt/app/asalvum/id1574929490?l=en), available on the App Store.
 
 ![Screenshot](images/Screenshot.png?raw=true)
 
