@@ -11,7 +11,9 @@ Controls
 
 1. **CUIText**, this control is just like the Text from Apple, but with one minor difference, we can enable a action to copy the content to the clipboard.
 
-2. **CUISecureText**, this will be the next control.
+2. **CUISecureText**, this control is similar to the Text from Apple, but with two minor difference, we can hide the text with a mask and we can also enable a action to copy the content to the clipboard.
+
+3. **CUITextField**, this will be the next control.
 
 About
 --------

@@ -9,8 +9,16 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        CUIText(text: "Hello, world!")
-            .padding()
+        
+        VStack {
+            
+            CUIText(text: "Some text ;)")
+                .padding()
+            
+            CUISecureText(text: "Some secured text ;)")
+                .padding()
+            
+        }
     }
 }
 
