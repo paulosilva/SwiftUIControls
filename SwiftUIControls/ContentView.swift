@@ -8,6 +8,10 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    @State private var myName: String = "My Name"
+    @State private var myPassword: String = "My Password"
+
     var body: some View {
         
         VStack {
@@ -16,6 +20,12 @@ struct ContentView: View {
                 .padding()
             
             CUISecureText(text: "Some secured text ;)")
+                .padding()
+            
+            CUITextField("Your Name", text: $myName)
+                .padding()
+            
+            CUISecureTextField("Passsword:", text: $myPassword)
                 .padding()
             
         }

@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		51CC01F1269B4F5C003B805E /* CUISecureText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51CC01F0269B4F5C003B805E /* CUISecureText.swift */; };
 		51CC01F4269B4FA0003B805E /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51CC01F3269B4FA0003B805E /* String.swift */; };
+		51CD954B26B6C0CA006EE520 /* CUITextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51CD954A26B6C0CA006EE520 /* CUITextField.swift */; };
+		51CD954D26B6C0D8006EE520 /* CUISecureTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51CD954C26B6C0D8006EE520 /* CUISecureTextField.swift */; };
 		51D396CB26950C880014A75E /* SwiftUIControlsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51D396CA26950C880014A75E /* SwiftUIControlsApp.swift */; };
 		51D396CD26950C880014A75E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51D396CC26950C880014A75E /* ContentView.swift */; };
 		51D396CF26950C8B0014A75E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51D396CE26950C8B0014A75E /* Assets.xcassets */; };
@@ -21,6 +23,8 @@
 /* Begin PBXFileReference section */
 		51CC01F0269B4F5C003B805E /* CUISecureText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CUISecureText.swift; sourceTree = "<group>"; };
 		51CC01F3269B4FA0003B805E /* String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
+		51CD954A26B6C0CA006EE520 /* CUITextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CUITextField.swift; sourceTree = "<group>"; };
+		51CD954C26B6C0D8006EE520 /* CUISecureTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CUISecureTextField.swift; sourceTree = "<group>"; };
 		51D396C726950C880014A75E /* SwiftUIControls.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIControls.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		51D396CA26950C880014A75E /* SwiftUIControlsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIControlsApp.swift; sourceTree = "<group>"; };
 		51D396CC26950C880014A75E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -96,6 +100,8 @@
 			children = (
 				51D396DC26950F140014A75E /* CUIText.swift */,
 				51CC01F0269B4F5C003B805E /* CUISecureText.swift */,
+				51CD954A26B6C0CA006EE520 /* CUITextField.swift */,
+				51CD954C26B6C0D8006EE520 /* CUISecureTextField.swift */,
 			);
 			path = CustomUIControls;
 			sourceTree = "<group>";
@@ -174,6 +180,8 @@
 				51D396CD26950C880014A75E /* ContentView.swift in Sources */,
 				51D396CB26950C880014A75E /* SwiftUIControlsApp.swift in Sources */,
 				51CC01F4269B4FA0003B805E /* String.swift in Sources */,
+				51CD954D26B6C0D8006EE520 /* CUISecureTextField.swift in Sources */,
+				51CD954B26B6C0CA006EE520 /* CUITextField.swift in Sources */,
 				51D396DD26950F140014A75E /* CUIText.swift in Sources */,
 				51CC01F1269B4F5C003B805E /* CUISecureText.swift in Sources */,
 			);

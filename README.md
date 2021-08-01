@@ -13,7 +13,11 @@ Controls
 
 2. **CUISecureText**, this control is similar to the Text from Apple, but with two minor difference, we can hide the text with a mask and we can also enable a action to copy the content to the clipboard.
 
-3. **CUITextField**, this will be the next control.
+3. **CUITextField**, this control is similar to the Text from Apple, but with one minor difference, we can delete all the text with on click.
+
+4. **CUISecureTextField**, this control is similar to the Text from Apple, but with one minor difference, we can switch between the **TextField** and the  **SecureField**.
+
+5. **CUIRoundedButton**, this will be the next controller.
 
 About
 --------
